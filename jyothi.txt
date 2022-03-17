@@ -1,0 +1,7 @@
+pointers are another important feature of c language.there are a powerful tool and handle to use once they are masterd.there are many
+reasons for using pointers.
+1.pointers are more efficient in handling the data tables.
+2.a pointer is enable us to access a variable that is defined outside the function.
+3.pointers reduce the length and complexity of a program.
+4.pointers increase the execution speed of a program.
+5.the use of a pointer to saving data storage speed in memory. 
