@@ -1,14 +1,8 @@
 #include<stdio.h>
-void main()
+int main()
 {
-	int p, t;
-	float r, si;
-	printf("principal value :");
-	scanf("%d", &p);
-	printf("time in years :");
-	scanf("%d", &t);
-	printf("rate of interest :");
-	scanf("%f", &r);
-	si = p*t*r/100;
-	printf("\n\rsimple interest is %f", si);
+    int P, T, R, SI;
+    scanf("%d%d%d",&P,&T,&R);
+    SI=P*T*R/100;
+    printf("%d",SI);
 }
